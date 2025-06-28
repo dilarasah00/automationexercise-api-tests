@@ -1,0 +1,13 @@
+[
+    {
+               "name": "john_doe89","email": "john.doe89@example.com",
+               "password": "S3cur3P@ssw0rd!","title": "Mr",
+               "birth_date": "15","birth_month": "07",
+               "birth_year": "1989","firstname": "John",
+               "lastname": "Doe", "company": "Acme Corp",
+               "address1": "123 Elm Street","address2": "Apt. 4B",
+               "country": "United States","zipcode": "90210",
+               "state": "California","city": "Beverly Hills",
+               "mobile_number": "+1 310-555-1234"
+               }
+]
