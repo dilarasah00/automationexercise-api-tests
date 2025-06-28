@@ -6,6 +6,12 @@ Bu testler, [https://automationexercise.com](https://automationexercise.com) sit
 Automation Exercise tarafından hazırlanmış olan test senaryoları kullanıldı.
 ![Test senaryoları](config/test_scenarios.png)
 
+## Kullanılan Teknolojiler
+- **Python**
+- **Request**
+- **Pytest**
+
+
 
 ## 📁 Klasör Yapısı
 
@@ -20,11 +26,3 @@ Automation Exercise tarafından hazırlanmış olan test senaryoları kullanıld
 │   └── test_negative.py             # Negatif test senaryoları (404, 405, invalid data vb.)
 ├── conftest.py              # Fixture’lar ve ortak yapılandırmalar
 ├── README.md
-
-
-## Kullanılan Teknolojiler
-- **Python 3**
-- **Request**
-- **Pytest**
-
-
